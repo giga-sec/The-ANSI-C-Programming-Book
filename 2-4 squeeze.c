@@ -1,3 +1,7 @@
+/*Exercise 2-4. Write an alternative version of squeeze(s1,s2) that deletes each character in...
+ *... s1 that matches any character in the string s2. */
+
+
 #include <stdio.h>
 
 // Delete any char in str1 where the char exists in str2
