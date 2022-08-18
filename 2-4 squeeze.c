@@ -26,7 +26,7 @@ int main() {
 		"\nI have been arrested for multiple crimes including:" 
 		"\n\tBattery on a police officer, Grand theft, Declaring war on Italy, and public indecency." 
 		"\nI will be escaping prison on, MARCH 28TH! After that.... I WILL TAKE OVER THE WORLD";
-    char b[] = "aeiou";
+    char b[] = "gigaSecure";
     squeeze(a, b);
 }
 /* Expected Input:
