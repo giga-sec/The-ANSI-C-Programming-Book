@@ -32,7 +32,10 @@ int main() {
     char str[] = "H3llo World123\n";
     print_tolower(str);
 
-    char new_str[] = "Hello WORLDIE";
+    char new_str[] = "What's up guys! It's Quandale Dingle here!" 
+		            "\nI have been arrested for multiple crimes including:" 
+		            "\n\tBattery on a police officer, Grand theft, Declaring war on Italy, and public indecency." 
+		            "\nI will be escaping prison on, MARCH 28TH! After that.... I WILL TAKE OVER THE WORLD";
     print_improved_tolower(new_str);
 }
 /* Improved Version of print_tolower()
