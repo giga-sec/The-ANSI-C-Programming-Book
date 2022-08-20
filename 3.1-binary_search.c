@@ -19,6 +19,7 @@ int binsearch(int x, int v[], int n) {
                 low = mid + 1;
             mid = (low + high) / 2;
         }
+        
     }
         return mid; // found match
     return -1; // no match
@@ -41,4 +42,5 @@ int main() {
  *  Inifnite loop: we lose the ability to get out of the loop if no match is found
  * Bruh idk man
  * 
+ * Oh man, I almost got it. But I already viewed the solution https://clc-wiki.net/wiki/K&R2_solutions:Chapter_3:Exercise_1#Solution_by_Paul_Griffiths
  */
